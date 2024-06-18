@@ -12,7 +12,7 @@
 ---
 
 ## Here is tools I know and use 🛠
-<a href="https://github.com/Ionichi/Ionichi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ionichi&langs_count=10&theme=github_dark" align="right"></a>
+<a href="https://github.com/Ionichi/Ionichi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ionichi&langs_count=10&theme=transparent" align="right"></a>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
