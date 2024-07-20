@@ -7,7 +7,7 @@
 
 ## My GitHub Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ionichi&theme=transparent&show_icons=true&hide=&count_private=true&title_color=58A6FF&text_color=BBBBBB&icon_color=4C8EDA&hide_border=false&show_icons=true)](https://github.com/Ionichi/Ionichi) &nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ionichi&theme=transparent&text_color=434d58&title_color=2f80ed&icon_color=4c71f2&ring=39D353&fire=1F6EE8&stroke=39D353&currStreakNum=999999&currStreakLabel=BBBBBB&sideNums=BBBBBB&sideLabels=777777&dates=39D353&border=39D353&date_format=j%20M%5B%20Y%5D&mode=daily&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://github.com/Ionichi/Ionichi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ionichi&theme=transparent&text_color=434d58&title_color=2f80ed&icon_color=4c71f2&ring=39D353&fire=1F6EE8&stroke=39D353&currStreakNum=999999&currStreakLabel=BBBBBB&sideNums=BBBBBB&sideLabels=777777&dates=39D353&border=39D353&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/Ionichi/Ionichi)
 
 ---
 
