@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌍 I'm based in Indonesia
-- 📚 I'm learning web developer backend frameworks
+- 📚 I'm software engineer
 - 📫 You can reach me at [feryandi2303@gmail.com](mailto:feryandi2303@gmail.com)
 
 ## My GitHub Stats
